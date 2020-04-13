@@ -38,10 +38,13 @@ features                                  :
     description                           : "無駄な機能は一切ナシ。サブスクリプションを管理することに特化したアプリです。"
     fontawesome_icon_name                 : tasks
     
+  - title                                 : "かんたん登録"
+    description                           : "直感的な操作でサブスクリプションを登録可能。"
+    fontawesome_icon_name                 : mobile-alt
+    
   - title                                 : "プッシュ通知で解約忘れを防止"
     description                           : "次回支払日を入力すると、二日前にプッシュ通知でお知らせします。"
     fontawesome_icon_name                 : bell
-
 
 
 
