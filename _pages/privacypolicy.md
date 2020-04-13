@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated** 
+**Last updated**  
 2020年 4月 13日
 
 プライバシーポリシー
