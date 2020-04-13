@@ -34,12 +34,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-　- title                                 : 圧倒的にシンプル
-    description                           : 無駄な機能は一切ナシ。サブスクリプションを管理することに特化したアプリです。
+　- title                                 : "圧倒的にシンプル"
+    description                           : "無駄な機能は一切ナシ。サブスクリプションを管理することに特化したアプリです。"
     fontawesome_icon_name                 : tasks
 
-  - title                                 : プッシュ通知で解約忘れを防止
-    description                           : 次回支払日を入力すると、二日前にプッシュ通知でお知らせします。
+  - title                                 : "プッシュ通知で解約忘れを防止"
+    description                           : "次回支払日を入力すると、二日前にプッシュ通知でお知らせします。"
     fontawesome_icon_name                 : bell
 
   - title                                 : # New Feature Title
