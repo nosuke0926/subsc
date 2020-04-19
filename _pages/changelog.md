@@ -10,7 +10,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-サブスクリプションをシンプルに管理するアプリ「さぶすく」iOS版をリリースしました。
+サブスクリプションをシンプルに管理するアプリ「さぶすく」iOS版・Android版をリリースしました。
 
 <br>
 
