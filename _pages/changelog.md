@@ -14,6 +14,14 @@ include_in_header: true
 
 <br>
 
+## Version 1.0.3
+軽微な修正を行いました。
+
+#### 更新点
+- Googleログインができない不具合を修正しました。
+
+<br>
+
 ## Version 1.0.2
 軽微な修正を行いました。
 
