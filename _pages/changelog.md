@@ -8,6 +8,17 @@ include_in_header: true
 
 <br>
 
+### `Latest`
+# **Version 2.0**
+分析機能を追加しました。
+月間、年間のお支払い額をグラフで簡単に確認できます。
+
+<br>
+
+________
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 サブスクリプションをシンプルに管理するアプリ「さぶすく」iOS版・Android版をリリースしました。
